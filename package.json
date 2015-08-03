@@ -25,8 +25,9 @@
     "nan": "~1.8.4"
   },
   "devDependencies": {
-    "expresso": ">=0.6.0",
     "binary": ">=0.1.7",
+    "electron-rebuild": "^0.2.5",
+    "expresso": ">=0.6.0",
     "put": ">=0.0.5"
   },
   "license": "MIT",
